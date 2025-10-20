@@ -1,4 +1,4 @@
-# This is a practise markdown document
+# This is a practise markdown document, whereby I describe a goose!
 
 ## Below I have added an image of a silly goose
 
@@ -11,3 +11,4 @@ animal = "Goose"
 - [x] Feathers
 - [x] Beak
 - [x] Feet
+
